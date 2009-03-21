@@ -1,0 +1,14 @@
+<!-- begin l_sidebar -->
+
+<div id="l_sidebar">
+
+<form>
+<input type="text" value="<?php $post->ID; ?>" />
+<input type="submit" value="I am attending this session" />
+</form
+
+
+
+</div>
+
+<!-- end l_sidebar -->
