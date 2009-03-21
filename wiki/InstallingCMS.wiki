@@ -18,12 +18,14 @@
            [http://www.theblog.ca/wplogin-redirect Peter's Login Redirect]
 
            [http://urbangiraffe.com/plugins/redirection/ Redirection]
+           Create redirections (301): /event/ => /event/BCB8, /event/author => /bcb/wp-allauthors.php, /register => /bcb/wp-login.php?action=register  
 
            [http://skullbit.com/wordpress-plugin/register-plus/ Register Plus]
 
            [http://wordpress.org/support/topic/221525 Show authors without posts]
 
            [http://thedeadone.net/download/tdo-mini-forms-wordpress-plugin/ TDO Mini Forms]
+           Configure your "Add a Session" Page using the TDO Mini Forms plugin: Create a new form and add Content, Tag, CustomField and Categories fields using form widgets. Name the custom fields as 'session_embed'.
 
            [http://www.phpvrouwen.nl/twitme Twitme]
 
@@ -41,6 +43,6 @@
 
 *Step 5*: Activate all plugins and theme mentioned and customize them for your use
 
-*Step 6*: Configure your "Add a Session" Page using the TDO Mini Forms plugin: Create a new form and add Content, Tag, CustomField and Categories fields using form widgets. Name the custom fields as 'session_embed'. 
+
 
 If you face any issues get in touch with us on the bcb mailing list at bangalore_barcamp@yahoogroups.com [http://groups.yahoo.com/group/bangalore_barcamp group page]
