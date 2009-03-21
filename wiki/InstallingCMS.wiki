@@ -1,5 +1,4 @@
 #labels Featured,Phase-Deploy,Phase-Implementation
-#Installing Barcamp CMS
 
 = Installing Barcamp CMS =
 
