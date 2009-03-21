@@ -3,7 +3,7 @@
 
 *Step 1*: Install Wordpress 2.6 
 
-*Step 2*: Copy the wp-allauthors.php to WordPress root directory
+*Step 2*: Copy the wp-allauthors.php to Wordpress root directory
 
 *Step 3*: Install the following plugin
 
