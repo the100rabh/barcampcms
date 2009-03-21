@@ -3,43 +3,43 @@
 
 = Installing Barcamp CMS =
 
-Step 1: Install Wordpress 2.6 
+*Step 1*: Install Wordpress 2.6 
 
-Step 2: Install the following plugin
+*Step 2*: Install the following plugin
 
-[http://akismet.com/ Akismet]
+           [http://akismet.com/ Akismet]
 
-[http://blog.jodies.de/archiv/2004/11/13/recent-comments/ Get Recent Comments]
+           [http://blog.jodies.de/archiv/2004/11/13/recent-comments/ Get Recent Comments]
 
-[http://www.song-line.de/2008/05/25/plugin-list-all-authors/ List-all-authors]
+           [http://www.song-line.de/2008/05/25/plugin-list-all-authors/ List-all-authors]
 
-[http://picandocodigo.net/programacion/wordpress/list-category-posts-wordpress-plugin-english/ List category posts]
+           [http://picandocodigo.net/programacion/wordpress/list-category-posts-wordpress-plugin-english/ List category posts]
 
-[http://www.theblog.ca/wplogin-redirect Peter's Login Redirect]
+           [http://www.theblog.ca/wplogin-redirect Peter's Login Redirect]
 
-[http://urbangiraffe.com/plugins/redirection/ Redirection]
+           [http://urbangiraffe.com/plugins/redirection/ Redirection]
 
-[http://skullbit.com/wordpress-plugin/register-plus/ Register Plus]
+           [http://skullbit.com/wordpress-plugin/register-plus/ Register Plus]
 
-[http://wordpress.org/support/topic/221525 Show authors without posts]
+           [http://wordpress.org/support/topic/221525 Show authors without posts]
 
-[http://thedeadone.net/download/tdo-mini-forms-wordpress-plugin/ TDO Mini Forms]
+           [http://thedeadone.net/download/tdo-mini-forms-wordpress-plugin/ TDO Mini Forms]
 
-[http://www.phpvrouwen.nl/twitme Twitme]
+           [http://www.phpvrouwen.nl/twitme Twitme]
 
-[http://smashingmagazine.com Twittar]
+           [http://smashingmagazine.com Twittar]
 
-[http://www.ilfilosofo.com/blog/wp-db-backup WordPress Database Backup]
+           [http://www.ilfilosofo.com/blog/wp-db-backup WordPress Database Backup]
 
-[http://alexking.org/projects/wordpress WordPress Mobile Edition]
+           [http://alexking.org/projects/wordpress WordPress Mobile Edition]
 
-[http://blog.2i2j.com/plugins/wordpress-thread-comment Wordpress Thread Comment]
+           [http://blog.2i2j.com/plugins/wordpress-thread-comment Wordpress Thread Comment]
 
-[http://wp-cms.com/our-wordpress-plugins/post-control/ WP-CMS Post Control]
+           [http://wp-cms.com/our-wordpress-plugins/post-control/ WP-CMS Post Control]
 
-Step 3: Place the Barcamp Bangalore theme into the /wp-content/themes folder
+*Step 3*: Place the Barcamp Bangalore theme into the /wp-content/themes folder
 
-Step 4: Activate all plugins and theme mentioned and customize them for your use
+*Step 4*: Activate all plugins and theme mentioned and customize them for your use
 
 
 If you face any issues get in touch with us on the bcb mailing list at bangalore_barcamp@yahoogroups.com [http://groups.yahoo.com/group/bangalore_barcamp group page]
