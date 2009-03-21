@@ -3,7 +3,9 @@
 
 *Step 1*: Install Wordpress 2.6 
 
-*Step 2*: Install the following plugin
+*Step 2*: Copy the wp-allauthors.php to WordPress root directory
+
+*Step 3*: Install the following plugin
 
            [http://akismet.com/ Akismet]
 
@@ -35,10 +37,10 @@
 
            [http://wp-cms.com/our-wordpress-plugins/post-control/ WP-CMS Post Control]
 
-*Step 3*: Place the Barcamp Bangalore theme into the /wp-content/themes folder
+*Step 4*: Place the Barcamp Bangalore theme into the /wp-content/themes folder
 
-*Step 4*: Activate all plugins and theme mentioned and customize them for your use
+*Step 5*: Activate all plugins and theme mentioned and customize them for your use
 
-*Step 5*: Configure your "Add a Session" Page using the TDO Mini Forms plugin: Create a new form and add Content, Tag, CustomField and Categories fields using form widgets. Name the custom fields as 'session_embed'. 
+*Step 6*: Configure your "Add a Session" Page using the TDO Mini Forms plugin: Create a new form and add Content, Tag, CustomField and Categories fields using form widgets. Name the custom fields as 'session_embed'. 
 
 If you face any issues get in touch with us on the bcb mailing list at bangalore_barcamp@yahoogroups.com [http://groups.yahoo.com/group/bangalore_barcamp group page]
