@@ -18,7 +18,7 @@
            [http://www.theblog.ca/wplogin-redirect Peter's Login Redirect]
 
            [http://urbangiraffe.com/plugins/redirection/ Redirection]
-           Create redirections (301): /event/ => /event/BCB8, /event/author => /bcb/wp-allauthors.php, /register => /bcb/wp-login.php?action=register  
+           Create redirects (301): /event/ => /event/BCB8, /event/author => /bcb/wp-allauthors.php, /register => /bcb/wp-login.php?action=register  
 
            [http://skullbit.com/wordpress-plugin/register-plus/ Register Plus]
 
