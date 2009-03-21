@@ -1,5 +1,4 @@
 #labels Featured,Phase-Deploy,Phase-Implementation
-
 = Installing Barcamp CMS =
 
 *Step 1*: Install Wordpress 2.6 
@@ -40,5 +39,6 @@
 
 *Step 4*: Activate all plugins and theme mentioned and customize them for your use
 
+*Step 5*: Configure your "Add a Session" Page using the TDO Mini Forms plugin: Create a new form and add Content, Tag, CustomField and Categories fields using form widgets. Name the custom fields as 'session_embed'. 
 
 If you face any issues get in touch with us on the bcb mailing list at bangalore_barcamp@yahoogroups.com [http://groups.yahoo.com/group/bangalore_barcamp group page]
