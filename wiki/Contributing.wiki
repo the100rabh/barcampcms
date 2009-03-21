@@ -1,5 +1,5 @@
 #labels Featured,Phase-Support
-#Tell people on how to contribute to the project
+#How to contribute to the project
 
 = Contributing to the project =
 
